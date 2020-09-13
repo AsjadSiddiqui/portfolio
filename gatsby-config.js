@@ -1,4 +1,3 @@
-// gatsby-config.js
 module.exports = {
   plugins: [
     {
@@ -9,7 +8,7 @@ module.exports = {
         imagesPath: `src/images/`,
         iconFile: `src/images/icon.png`,
         siteTitle: `Portfolio`,
-        siteUrl: `https://www.christianibarguen.com`,
+        siteUrl: `https://silly-babbage-654206.netlify.app`,
         siteName: `Christian David Ibarguen`,
         siteShortName: `CD`,
         siteDescription: `This cool App contains information about my work experience as a software developer.`,
@@ -45,6 +44,7 @@ module.exports = {
               worked as a software developer since 2006.`,
           typewriter: [
             `Coding is my passion 😎`,
+            `I live in Colombia 🇨🇴`,
             `I'm a 🍕 lover`,
             `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
             `I think one of my values is the <strong>ability to resolve problems<strong>`,
@@ -70,6 +70,29 @@ module.exports = {
           },
         },
         footer: `heart`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          `UA-151335375-1`, // Google Analytics / GA
+        ],
+        // This object gets passed directly to the gtag config command
+        // This config will be shared across all trackingIds
+        gtagConfig: {
+          anonymize_ip: true,
+          cookie_expires: 0,
+          send_page_view: true,
+          cookie_name: `christianibarguen.com`,
+        },
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: false,
+          // Setting this parameter is also optional
+          respectDNT: false,
+        },
       },
     },
   ],

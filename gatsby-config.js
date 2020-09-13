@@ -8,7 +8,7 @@ module.exports = {
         imagesPath: `src/images/`,
         iconFile: `src/images/icon.png`,
         siteTitle: `Portfolio`,
-        siteUrl: `https://silly-babbage-654206.netlify.app`,
+        siteUrl: `https://vibrant-liskov-2ea3a3.netlify.app/`,
         siteName: `Christian David Ibarguen`,
         siteShortName: `CD`,
         siteDescription: `This cool App contains information about my work experience as a software developer.`,
@@ -84,7 +84,7 @@ module.exports = {
           anonymize_ip: true,
           cookie_expires: 0,
           send_page_view: true,
-          cookie_name: `christianibarguen.com`,
+          cookie_name: `vibrant-liskov-2ea3a3.netlify.app/`,
         },
         // This object is used for configuration specific to this plugin
         pluginConfig: {

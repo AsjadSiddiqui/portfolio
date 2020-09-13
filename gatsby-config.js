@@ -32,7 +32,7 @@ module.exports = {
           // Usernames
           twitter: `AsjadSidd`,
           gitHub: `AsjadSiddiqui`,
-          stackOverflow: `null`,
+          stackOverflow: `#`,
           linkedIn: `in/asjad-s-7449131a9/`,
           resumeInPdf: `#`, // url or local link
         },
@@ -47,7 +47,7 @@ module.exports = {
             `I live in Pakistan 🇵🇰`,
             `I 💖 Flutter‍`,
             `I'm a 🍕 lover`,
-            `I make <strong>awesome<strong> mobile Apps`,
+            `I make <strong>awesome</strong> mobile Apps`,
             `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
             `I think one of my values is the <strong>ability to resolve problems<strong>`,
             `I like to share what I know 👨‍🏫`,

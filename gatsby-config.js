@@ -9,8 +9,8 @@ module.exports = {
         iconFile: `src/images/icon.png`,
         siteTitle: `Portfolio`,
         siteUrl: `https://vibrant-liskov-2ea3a3.netlify.app/`,
-        siteName: `Christian David Ibarguen`,
-        siteShortName: `CD`,
+        siteName: `Asjad Siddiqui`,
+        siteShortName: `AS`,
         siteDescription: `This cool App contains information about my work experience as a software developer.`,
         siteKeywords: `Software developer, Full Stack Developer`,
         useMozJpeg: true,
@@ -27,29 +27,30 @@ module.exports = {
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
           { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
         ],
-        email: `christian@davidibarguen.com`,
+        email: `asjadsidd@outlook.com`,
         social: {
           // Usernames
-          twitter: `ichristiandavid`,
-          gitHub: `christiandavid`,
-          stackOverflow: `967956/christian-david`,
-          linkedIn: `in/christianibarguen/`,
-          resumeInPdf: `/CV-19.pdf`, // url or local link
+          twitter: `AsjadSidd`,
+          gitHub: `AsjadSiddiqui`,
+          stackOverflow: `null`,
+          linkedIn: `in/asjad-s-7449131a9/`,
+          resumeInPdf: `#`, // url or local link
         },
         homePage: {
           availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
-          h1Text: `Hi!, I'm Christian David Ibarguen`,
-          h2Text: `I'm a Full Stack Developer who loves working in Backend, I have
-              worked as a software developer since 2006.`,
+          h1Text: `Hi!, I'm Asjad Siddiqui`,
+          h2Text: `I'm a Full Stack Developer who loves working in Backend and creating Mobile Apps, I have
+              worked as a software developer since 2018.`,
           typewriter: [
             `Coding is my passion 😎`,
-            `I live in Colombia 🇨🇴`,
+            `I live in Pakistan 🇵🇰`,
+            `I 💖 Flutter‍`,
             `I'm a 🍕 lover`,
+            `I make <strong>awesome<strong> mobile Apps`,
             `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
             `I think one of my values is the <strong>ability to resolve problems<strong>`,
             `I like to share what I know 👨‍🏫`,
-            `In my non-coding hours, I'm at the 🏋‍`,
             `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
           ],
         },

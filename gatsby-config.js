@@ -70,7 +70,7 @@ module.exports = {
             opacity: `0.7`,
           },
         },
-        footer: `heart`,
+        footer: `none`,
       },
     },
     {

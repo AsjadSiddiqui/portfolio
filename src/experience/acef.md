@@ -1,8 +1,8 @@
 ---
-title: ""
-company: "ACEF (Colombian Association of Finance Executives)"
+title: "Made this"
+company: "Kads21"
 logo: ../images/companies/acef.png
-jobTitle: "Frontend - Backend Developer"
+jobTitle: "Website & Mobile App"
 skills:
   [
     { title: "HTML 4", image: ../images/skills/html4.png },
@@ -19,7 +19,7 @@ images:
   [
     {
       title: "Achievements",
-      description: "In Acef I had some interesting challenges, one of them was to get the emails with event information reached the inbox and not the SPAM folder.",
+      description: "Here, I made an App in Flutter, and a Website in HTML & CSS",
       layout: "4",
       files:
         [
@@ -29,8 +29,8 @@ images:
         ],
     },
     {
-      title: "Emails and CMS",
-      description: "I got the messages to have a good reputation in SPAM filters by following the standards and rules allowing the messages to reach the inbox, I also developed a CMS.",
+      title: "Website",
+      description: "You can find it here: kads21.com",
       layout: "1",
       files:
         [
@@ -40,8 +40,8 @@ images:
         ],
     },
   ]
-dateFrom: "2006-03-01"
-dateTo: "2007-06-01"
+dateFrom: "2018-03-01"
+dateTo: "2018-06-01"
 ---
 
 - Direction of the marketing and communications area oriented to the promotion of events and training through mass emails

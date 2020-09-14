@@ -32,7 +32,7 @@ module.exports = {
           // Usernames
           twitter: `AsjadSidd`,
           gitHub: `AsjadSiddiqui`,
-          stackOverflow: `#`,
+          stackOverflow: `14207902/asjad-siddiqui`,
           linkedIn: `in/asjad-s-7449131a9/`,
           resumeInPdf: `#`, // url or local link
         },
@@ -46,8 +46,8 @@ module.exports = {
             `Coding is my passion 😎`,
             `I live in Pakistan 🇵🇰`,
             `I 💖 Flutter‍`,
-            `I'm a 🍕 lover`,
             `I make <strong>awesome</strong> mobile Apps`,
+            `Python 🐍 in my favorite programming language`,
             `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
             `I think one of my values is the <strong>ability to resolve problems<strong>`,
             `I like to share what I know 👨‍🏫`,
@@ -70,7 +70,7 @@ module.exports = {
             opacity: `0.7`,
           },
         },
-        footer: `none`,
+        footer: `heart`,
       },
     },
     {

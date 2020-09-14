@@ -40,8 +40,8 @@ images:
         ],
     },
   ]
-dateFrom: "2018-03-01"
-dateTo: "2018-06-01"
+dateFrom: "2006-03-01"
+dateTo: "2006-06-01"
 ---
 
 - Direction of the marketing and communications area oriented to the promotion of events and training through mass emails

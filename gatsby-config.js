@@ -40,8 +40,8 @@ module.exports = {
           availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
           h1Text: `Hi!, I'm Asjad Siddiqui`,
-          h2Text: `I'm a Full Stack Developer who loves working in Backend and creating Mobile Apps, I have
-              worked as a software developer since 2018.`,
+          h2Text: `I'm a Full Stack Developer who loves creating Mobile Apps, I have
+              worked as a software developer since 2017.`,
           typewriter: [
             `Coding is my passion 😎`,
             `I live in Pakistan 🇵🇰`,

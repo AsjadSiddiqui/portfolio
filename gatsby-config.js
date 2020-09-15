@@ -45,13 +45,14 @@ module.exports = {
           typewriter: [
             `Coding is my passion 😎`,
             `I live in Pakistan 🇵🇰`,
-            `I 💖 Flutter‍`,
-            `I make <strong>awesome</strong> mobile Apps`,
-            `Python 🐍 in my favorite programming language`,
+            `I 💖 Flutter`,
+            `I make <strong>awesome</strong> Mobile Apps`,
+            `Python 🐍 is my favorite programming language`,
             `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
             `I think one of my values is the <strong>ability to resolve problems<strong>`,
             `I like to share what I know 👨‍🏫`,
             `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
+            `You actually <strong>read</strong> all this? You got time to burn...`,
           ],
         },
         // Color for menu background
